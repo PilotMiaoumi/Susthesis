@@ -2,9 +2,8 @@
  * @name Susthesis - Main
  * @author Saltssaumure#7557
  * @description Main section of the Synthesis theme. Please download the autoupdater from https://github.com/Saltssaumure/synthesis-discord-theme/releases/tag/latest.
- * @version 
+ * @version Welcome, Aria.
 */
-@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter&display=swap");
 :root {
   --font-primary: Inter, sans-serif;
