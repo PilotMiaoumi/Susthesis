@@ -1,1 +1,1 @@
-Fork of Synthesis theme for BetterDiscord with custom stuff for my Vesktop Client.
+Fork of Synthesis theme for BetterDiscord removing some text I didnt like.
